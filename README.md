@@ -1,2 +1,2 @@
 # PyCheatShit
-Self Explaining Python Codes
+# Self Explaining Python Codes For Python Libs
